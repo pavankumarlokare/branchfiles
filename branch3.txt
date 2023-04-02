@@ -1,0 +1,10 @@
+step 3===> create one branch using 
+git branch <branchname>
+
+step4===>  use this commond to switch master repo to branch
+git checkout <branchname>
+
+step5===> create any files inside new branch u created 
+
+step6===> go to master repo and use this below commond merge ur branch to master
+git merge <branchname>
